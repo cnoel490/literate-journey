@@ -1,6 +1,6 @@
 {
     "name": "AVD Development",
-    "image": "ghcr.io/aristanetworks/avd/dev:python3.11",
+    "image": "ghcr.io/aristanetworks/avd/universal:python3.10-avd-devel",
     // The AVD collection can also be installed from any git branch.
     // Uncomment the section below if it's required
     //
